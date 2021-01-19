@@ -354,7 +354,7 @@ int main(){
     system("title Calender Wiz");
     system("color bc");
     int choice;
-    char ch = 'a';
+    char ch;
     while(1){
         system("color bc");
         ch = 'a';
