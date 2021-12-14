@@ -4,4 +4,6 @@
 - Linked list
 - Doubly linked list
 - Stack
+- Queue
+- Tree
 
